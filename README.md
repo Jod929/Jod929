@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jod929
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning JavaScrpit, HTML, and CSS
+- 🌱 I work on projects mainly with JS, React, and MySQL but also dabble in Java
 - 💞️ I’m looking to collaborate on websites and other projects
-- 📫 How to reach me  Email: joddykrebs4@gmail.com
+- 📫 How to reach me  Email: joshkrebs0@gmail.com
 
 <!---
 Jod929/Jod929 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
