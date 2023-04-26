@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jod929
 - 👀 I’m interested in web development.
-- 🌱 I work on projects mainly with JS, React, and MySQL but also dabble in Java
+- 🌱 I work on projects mainly with JS, React, and MySQL but also dabble in Python & Java
 - 💞️ I’m looking to collaborate on websites and other projects
 - 📫 How to reach me  Email: joshkrebs0@gmail.com
 
