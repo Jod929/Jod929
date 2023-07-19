@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Jod929
-- 👀 I’m interested in web development.
+- 👋 Hi, I’m Josh
+- 👀 I’m interested in Full Stack Development.
 - 🌱 I work on projects mainly with JS, React, and MySQL but also dabble in Python & Java
 - 💞️ I’m looking to collaborate on websites and other projects
 - 📫 How to reach me  Email: joshkrebs0@gmail.com
